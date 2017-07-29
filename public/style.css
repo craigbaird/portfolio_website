@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'Pier Regular';
+    src: url('assets/pier-regular.otf');
+}
+
+@font-face {
+    font-family: 'Maxwell Regular';
+    src: url('assets/maxwell_regular.ttf');
+}
+
+p {
+  font-family: 'Pier Regular';
+  font-size: 16px;
+  color: #474747;
+}
+
+a {
+  text-decoration: none;
+}
+
+.pSpacerDiv {
+  height: -5px;
+}
+
+.headerDiv {
+  height: 10px;
+}
+
+.contentDiv {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.profileImg {
+  border-radius: 50%;
+  margin-left: 40%;
+  margin-right: 40%;
+  width: 20%;
+  height: 20%;
+}
+
+.bio {
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  line-height: 180%;
+}
+
+.socialMediaIcons {
+  margin-top: 40px;
+}
+
+.icon {
+  margin-left: 8px;
+  margin-right: 8px;
+  height: 5%;
+  width: 5%;
+}
